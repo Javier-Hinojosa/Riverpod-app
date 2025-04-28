@@ -1,5 +1,9 @@
 # riverpod_app
 
+# description:
+app de ejemplo para revisar todos los Providers y modificadores del gestor de estado Riverpod
+Este proyecto esta basado en el curso de [Riverpod - Todos los Providers y modificadores](https://www.youtube.com/watch?v=VOgzWmYQDzQ) de Fernando Herrera
+
 ## Requirements
 Flutter 3.29.2
 Dart SDK version: 3.7.2
