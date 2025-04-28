@@ -1,0 +1,2 @@
+C:/Git/GitHub/OpenLibrary/android/app/.cxx/RelWithDebInfo/4os3g2u3/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Git/GitHub/OpenLibrary/android/app/.cxx/RelWithDebInfo/4os3g2u3/arm64-v8a/CMakeFiles/rebuild_cache.dir

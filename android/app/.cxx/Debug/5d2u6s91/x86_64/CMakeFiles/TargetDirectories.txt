@@ -1,0 +1,2 @@
+C:/Git/GitHub/flutter-riverpod-app/android/app/.cxx/Debug/5d2u6s91/x86_64/CMakeFiles/edit_cache.dir
+C:/Git/GitHub/flutter-riverpod-app/android/app/.cxx/Debug/5d2u6s91/x86_64/CMakeFiles/rebuild_cache.dir
